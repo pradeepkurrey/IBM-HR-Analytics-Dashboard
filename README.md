@@ -55,34 +55,35 @@ monitor employee attrition, and support data-driven HR decision-making.
 - Microsoft Excel
 
 ---
-
 ## 📂 Dataset
 
 IBM HR Analytics Employee Attrition Dataset
 
+
 ---
+
+
 
 ## 📸 Dashboard Preview
 
 ### Overview
-![Overview](HR Overview (1).png)
+![Overview](HR%20Overview%20(1).png)
 
 ### Attrition
-![Attrition](HR Attrition.png)
+![Attrition](HR%20Attrition.png)
 
 ### Employee
-![Employee](HR Employee.png)
+![Employee](HR%20Employee.png)
 
 ### Insights
-![Insights](HR Insight.png)
+![Insights](HR%20Insight.png)
 
 ---
 
 ## 📥 Download
 
 - [Power BI Dashboard (.pbix)](BILEVEL11HR.pbix)
-- [Dataset (.csv)](hr data.csv)
-
+- [📄 Dataset CSV](./hr%20data.csv)
 ---
 
 ## 👨‍💻 Author
